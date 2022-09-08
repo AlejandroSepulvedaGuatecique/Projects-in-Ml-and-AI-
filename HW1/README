@@ -4,5 +4,5 @@ This folder contains the solution for Projects in Machine Learning and AI - HW1.
 - 'Heart_Disease_Prediction.csv' Public data set used for the purpose of the HW1. The link to the data can be found in the HW1 solution. 
 
 Additional
-- 'Logistic_Regression_from_scratch' In this notebook I implemented the batch and minibatch gradient descent codes from scratch using numpy, along with Adam and 
+- 'Logistic_Regression_from_scratch' In this notebook I just implemented the batch and minibatch gradient descent codes from scratch using numpy, along with Adam and 
 Momentum optimizations. A synthetic data set is created to test this codes. 
